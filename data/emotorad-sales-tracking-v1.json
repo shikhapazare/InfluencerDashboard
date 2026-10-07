@@ -1,0 +1,1062 @@
+[
+ {
+  "id": "sale-0",
+  "orderDate": "2022-11-04",
+  "promoCode": "NEWTUBER",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "j k",
+  "state": "Maharashtra",
+  "city": "Mumbai"
+ },
+ {
+  "id": "sale-1",
+  "orderDate": "2022-11-06",
+  "promoCode": "NEWTUBER",
+  "model": "LilE R",
+  "totalAmount": 29999,
+  "name": "srinivas Gogula",
+  "state": "Andhra Pradesh",
+  "city": "Guntur"
+ },
+ {
+  "id": "sale-2",
+  "orderDate": "2022-12-08",
+  "promoCode": "NEWTUBER",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "RAHUL",
+  "state": "Haryana",
+  "city": "Panchkula"
+ },
+ {
+  "id": "sale-3",
+  "orderDate": "2022-12-09",
+  "promoCode": "BLUERIDER",
+  "model": "EMX",
+  "totalAmount": 54999,
+  "name": "ANGAD SINGH BINDRA",
+  "state": "Karnataka",
+  "city": "Mysuru"
+ },
+ {
+  "id": "sale-4",
+  "orderDate": "2022-12-11",
+  "promoCode": "NEWTUBER",
+  "model": "LilE R",
+  "totalAmount": 29999,
+  "name": "Mannan dar",
+  "state": "Srinagar",
+  "city": "Jammu and Kashmir"
+ },
+ {
+  "id": "sale-5",
+  "orderDate": "2022-12-14",
+  "promoCode": "TECHRIDER",
+  "model": "EMX",
+  "totalAmount": 54999,
+  "name": "KAMLESH SAHU",
+  "state": "Raipur",
+  "city": "Chattisgarh"
+ },
+ {
+  "id": "sale-6",
+  "orderDate": "2022-12-14",
+  "promoCode": "PRTECHS",
+  "model": "Doodle v2",
+  "totalAmount": 50498,
+  "name": "Arijit Samanta",
+  "state": "West Bengal",
+  "city": "Ashram"
+ },
+ {
+  "id": "sale-7",
+  "orderDate": "2022-12-19",
+  "promoCode": "PRTECHS",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "vaishali rasal",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-8",
+  "orderDate": "2023-01-01",
+  "promoCode": "ANUBHAV100",
+  "model": "T-Rex+",
+  "totalAmount": 37999,
+  "name": "Jagan Kumar Govindarajan",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-9",
+  "orderDate": "2023-01-01",
+  "promoCode": "NEWTUBER",
+  "model": "Lil E",
+  "totalAmount": 29999,
+  "name": "KAUSTUBH AREKAR",
+  "state": "Daman and Diu",
+  "city": "Daman"
+ },
+ {
+  "id": "sale-10",
+  "orderDate": "2023-01-02",
+  "promoCode": "GEARUPDATE",
+  "model": "T-Rex+",
+  "totalAmount": 37999,
+  "name": "Kiran Deshmukh",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-11",
+  "orderDate": "2023-01-02",
+  "promoCode": "NEWTUBER",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "VEER SHARMA",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-12",
+  "orderDate": "2023-01-03",
+  "promoCode": "VEDDUBEY",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "Mansoor",
+  "state": "Kerala",
+  "city": "Kasargod"
+ },
+ {
+  "id": "sale-13",
+  "orderDate": "2023-01-06",
+  "promoCode": "BLUERIDER",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "Naval Rishi",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-14",
+  "orderDate": "2023-01-07",
+  "promoCode": "ARJUNTECH",
+  "model": "T-Rex+",
+  "totalAmount": 37999,
+  "name": "SANJU MORE",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-15",
+  "orderDate": "2023-01-08",
+  "promoCode": "NIKHIL1000",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "Bharat patel",
+  "state": "Ahemdabad",
+  "city": "Gujrat"
+ },
+ {
+  "id": "sale-16",
+  "orderDate": "2023-01-10",
+  "promoCode": "THROTTLER",
+  "model": "T-Rex+",
+  "totalAmount": 37999,
+  "name": "Rajashekhar Reddy",
+  "state": "Hyderabad",
+  "city": "Telangana"
+ },
+ {
+  "id": "sale-17",
+  "orderDate": "2023-01-18",
+  "promoCode": "BLUERIDER",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "Nomad Adventures Overland pvt ltd",
+  "state": "Delhi",
+  "city": "Delhi"
+ },
+ {
+  "id": "sale-18",
+  "orderDate": "2023-01-22",
+  "promoCode": "PRTECHS",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "Vamsi Yadav",
+  "state": "Andhra Pradesh",
+  "city": "Vishakhapatnam"
+ },
+ {
+  "id": "sale-19",
+  "orderDate": "2023-02-02",
+  "promoCode": "NEWTUBER",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "Ashish Khatri",
+  "state": "Tamil Nadu",
+  "city": "Ramanthapuram"
+ },
+ {
+  "id": "sale-20",
+  "orderDate": "2023-02-05",
+  "promoCode": "ARJUNTECH",
+  "model": "T-Rex+",
+  "totalAmount": 37999,
+  "name": "Jitendra Sattigeri",
+  "state": "Karnataka",
+  "city": "Gokak"
+ },
+ {
+  "id": "sale-21",
+  "orderDate": "2023-06-02",
+  "promoCode": "PRTECHS",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "Shubham Kumar",
+  "state": "Jharkhand",
+  "city": "Ranchi"
+ },
+ {
+  "id": "sale-22",
+  "orderDate": "2023-09-02",
+  "promoCode": "BLUERIDER",
+  "model": "EMX",
+  "totalAmount": 58999,
+  "name": "vinay sabarad",
+  "state": "Karnataka",
+  "city": "Belgaum"
+ },
+ {
+  "id": "sale-23",
+  "orderDate": "2023-11-02",
+  "promoCode": "BLUERIDER",
+  "model": "T-Rex+",
+  "totalAmount": 37999,
+  "name": "padda reddy tadi",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-24",
+  "orderDate": "2023-02-19",
+  "promoCode": "ARJUNTECH",
+  "model": "T-Rex+",
+  "totalAmount": 37999,
+  "name": "Manjunath Reddy",
+  "state": "Tamil Nadu",
+  "city": "Chennai"
+ },
+ {
+  "id": "sale-25",
+  "orderDate": "2023-09-03",
+  "promoCode": "GTTECH1000",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "Aditya",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-26",
+  "orderDate": "2023-03-13",
+  "promoCode": "BLUERIDER",
+  "model": "EMX Aqua",
+  "totalAmount": 58999,
+  "name": "SAMIM ALAM",
+  "state": "West Bengal",
+  "city": "Chandpara"
+ },
+ {
+  "id": "sale-27",
+  "orderDate": "2023-03-13",
+  "promoCode": "NEWTUBER",
+  "model": "X3",
+  "totalAmount": 32999,
+  "name": "HARSH",
+  "state": "Bihar",
+  "city": "Patna"
+ },
+ {
+  "id": "sale-28",
+  "orderDate": "2023-03-20",
+  "promoCode": "TRAVELANDTECH",
+  "model": "EMX",
+  "totalAmount": 58999,
+  "name": "Rohan Garg",
+  "state": "Uttar Pradesh",
+  "city": "Lucknow"
+ },
+ {
+  "id": "sale-29",
+  "orderDate": "2023-03-22",
+  "promoCode": "TRAVELANDTECH",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "NANOIN MOTORS PRIVATE LIMITED",
+  "state": "Maharashtra",
+  "city": "Mumbai"
+ },
+ {
+  "id": "sale-30",
+  "orderDate": "2023-03-24",
+  "promoCode": "PRTECH",
+  "model": "Doodle v2",
+  "totalAmount": 49999,
+  "name": "dipen ambalia",
+  "state": "Maharashtra",
+  "city": "Kalyan"
+ },
+ {
+  "id": "sale-31",
+  "orderDate": "2023-03-24",
+  "promoCode": "ARJUNTECH",
+  "model": "X2",
+  "totalAmount": 27999,
+  "name": "Rahul Shrivastava",
+  "state": "Maharashtra",
+  "city": "Mumbai"
+ },
+ {
+  "id": "sale-32",
+  "orderDate": "2023-03-27",
+  "promoCode": "NEWTUBER",
+  "model": "X2",
+  "totalAmount": 27999,
+  "name": "Anju Kumari",
+  "state": "Uttar Pradesh",
+  "city": "Agra"
+ },
+ {
+  "id": "sale-33",
+  "orderDate": "2023-03-27",
+  "promoCode": "NEWTUBER",
+  "model": "T-Rex+",
+  "totalAmount": 39999,
+  "name": "Prasad Salwe",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-34",
+  "orderDate": "2023-03-31",
+  "promoCode": "NEWTUBER",
+  "model": "X2",
+  "totalAmount": 27999,
+  "name": "Anshuman Suryawanshi",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-35",
+  "orderDate": "2023-01-04",
+  "promoCode": "BLUERIDER",
+  "model": "X2",
+  "totalAmount": 27999,
+  "name": "mUSKAN kAPOOR",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-36",
+  "orderDate": "2023-02-04",
+  "promoCode": "NEWTUBER",
+  "model": "X2",
+  "totalAmount": 27999,
+  "name": "Rohit Jaiswal",
+  "state": "Andhra Pradesh",
+  "city": "Vishakhapatnam"
+ },
+ {
+  "id": "sale-37",
+  "orderDate": "2025-07-16",
+  "promoCode": "Direct Contact",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Sushant Bodne",
+  "state": "Maharashtra",
+  "city": "Nagpur"
+ },
+ {
+  "id": "sale-38",
+  "orderDate": "2025-08-07",
+  "promoCode": "INFLUENCER",
+  "model": "STX",
+  "totalAmount": 34999,
+  "name": "Penvi Benmyo",
+  "state": "Assam",
+  "city": "Dhemaji"
+ },
+ {
+  "id": "sale-39",
+  "orderDate": "2025-08-08",
+  "promoCode": "01AKASH",
+  "model": "STX",
+  "totalAmount": 28499,
+  "name": "Erika Soldi",
+  "state": "Tamil Nadu",
+  "city": "Kanchipuram"
+ },
+ {
+  "id": "sale-40",
+  "orderDate": "2025-08-14",
+  "promoCode": "01KSN",
+  "model": "T-Rex+ V3",
+  "totalAmount": 42999,
+  "name": "Anuja Damani",
+  "state": "Karnataka",
+  "city": "Udupi"
+ },
+ {
+  "id": "sale-41",
+  "orderDate": "2025-08-19",
+  "promoCode": "01KSN",
+  "model": "Trex Pro",
+  "totalAmount": 48499,
+  "name": "SOVENJIT BASU",
+  "state": "West Bengal",
+  "city": "Kalna"
+ },
+ {
+  "id": "sale-42",
+  "orderDate": "2025-08-29",
+  "promoCode": "001AKASH",
+  "model": "Doodle Pro",
+  "totalAmount": 55999,
+  "name": "Robert Laltluangkima",
+  "state": "Assam",
+  "city": "Kokrajhar"
+ },
+ {
+  "id": "sale-43",
+  "orderDate": "2025-11-06",
+  "promoCode": "01FUEL",
+  "model": "X2",
+  "totalAmount": 27999,
+  "name": "Naman Singh",
+  "state": "Uttar Pradesh",
+  "city": "Agra"
+ },
+ {
+  "id": "sale-44",
+  "orderDate": "2025-10-29",
+  "promoCode": "01IMRAN",
+  "model": "Trex Pro",
+  "totalAmount": 49999,
+  "name": "Kishor Kumar Biswas",
+  "state": "West Bengal",
+  "city": "Darjaling"
+ },
+ {
+  "id": "sale-45",
+  "orderDate": "2025-11-08",
+  "promoCode": "01SURAJ",
+  "model": "Trex Air",
+  "totalAmount": 36246,
+  "name": "Jagdish Nadar",
+  "state": "Tamil Nadu",
+  "city": "Tamil Nadu"
+ },
+ {
+  "id": "sale-46",
+  "orderDate": "2025-12-09",
+  "promoCode": "01CRUISER",
+  "model": "Doodle Pro",
+  "totalAmount": 56999,
+  "name": "shailesh jain",
+  "state": "Madhya Pradesh",
+  "city": "Jabalpur"
+ },
+ {
+  "id": "sale-47",
+  "orderDate": "2025-12-14",
+  "promoCode": "01MANIAC",
+  "model": "T-Rex Air",
+  "totalAmount": 35999,
+  "name": "Karthik K",
+  "state": "Tamil Nadu",
+  "city": "Kanchipuram"
+ },
+ {
+  "id": "sale-48",
+  "orderDate": "2025-12-13",
+  "promoCode": "SOCIAL",
+  "model": "Doodle Pro",
+  "totalAmount": 56999,
+  "name": "Amit Verma",
+  "state": "",
+  "city": ""
+ },
+ {
+  "id": "sale-49",
+  "orderDate": "2025-12-22",
+  "promoCode": "01RANJITH",
+  "model": "Trex Pro",
+  "totalAmount": 50598,
+  "name": "Jeevan Raj Angamuthu",
+  "state": "Tamil Nadu",
+  "city": "Coimbatore"
+ },
+ {
+  "id": "sale-50",
+  "orderDate": "2025-12-26",
+  "promoCode": "NY1000",
+  "model": "X1",
+  "totalAmount": 25298,
+  "name": "MURALI V",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-51",
+  "orderDate": "2026-01-05",
+  "promoCode": "NY1000",
+  "model": "Doodle Pro",
+  "totalAmount": 54999,
+  "name": "Gaurav Goswami",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-52",
+  "orderDate": "2026-01-03",
+  "promoCode": "NY1000",
+  "model": "Doodle Pro",
+  "totalAmount": 58996,
+  "name": "Manikandan Manickam",
+  "state": "Salem",
+  "city": "Tamil Nadu"
+ },
+ {
+  "id": "sale-53",
+  "orderDate": "2026-01-11",
+  "promoCode": "",
+  "model": "Doodle Pro",
+  "totalAmount": 54000,
+  "name": "Amarnath",
+  "state": "Store",
+  "city": "Store"
+ },
+ {
+  "id": "sale-54",
+  "orderDate": "2025-10-24",
+  "promoCode": "",
+  "model": "X2",
+  "totalAmount": 26500,
+  "name": "Mitesh Gjbhiye",
+  "state": "Store",
+  "city": "Store"
+ },
+ {
+  "id": "sale-55",
+  "orderDate": "2026-01-09",
+  "promoCode": "01WHEELS",
+  "model": "Doodle Pro",
+  "totalAmount": 57197,
+  "name": "Aneesh Raj",
+  "state": "Alappuzha",
+  "city": "Kerala"
+ },
+ {
+  "id": "sale-56",
+  "orderDate": "2026-01-01",
+  "promoCode": "01MANIAC",
+  "model": "X1",
+  "totalAmount": 25499,
+  "name": "Shubham Mane",
+  "state": "",
+  "city": ""
+ },
+ {
+  "id": "sale-57",
+  "orderDate": "2026-02-09",
+  "promoCode": "",
+  "model": "Trex Pro",
+  "totalAmount": 49999,
+  "name": "Dr Anoop Kumar",
+  "state": "",
+  "city": ""
+ },
+ {
+  "id": "sale-58",
+  "orderDate": "2026-02-20",
+  "promoCode": "",
+  "model": "Doodle Pro",
+  "totalAmount": 56999,
+  "name": "Nairit Nandi",
+  "state": "Store",
+  "city": "Store"
+ },
+ {
+  "id": "sale-59",
+  "orderDate": "2026-02-21",
+  "promoCode": "",
+  "model": "Doodle Pro",
+  "totalAmount": 56999,
+  "name": "Nairit Nandi",
+  "state": "Store",
+  "city": "Store"
+ },
+ {
+  "id": "sale-60",
+  "orderDate": "2026-02-09",
+  "promoCode": "",
+  "model": "Trex Pro",
+  "totalAmount": 49999,
+  "name": "Dr Anoop Kumar",
+  "state": "Store",
+  "city": "Store"
+ },
+ {
+  "id": "sale-61",
+  "orderDate": "2025-07-12",
+  "promoCode": "01MANIAC",
+  "model": "X1",
+  "totalAmount": 25499,
+  "name": "Ashwani Nandan",
+  "state": "Store",
+  "city": "Store"
+ },
+ {
+  "id": "sale-62",
+  "orderDate": "",
+  "promoCode": "Social",
+  "model": "Toy Car",
+  "totalAmount": 0,
+  "name": "Manish Jethmalani",
+  "state": "",
+  "city": ""
+ },
+ {
+  "id": "sale-63",
+  "orderDate": "2026-04-17",
+  "promoCode": "Social",
+  "model": "Viper",
+  "totalAmount": 66999,
+  "name": "Shiv Sutar",
+  "state": "Maharashtra",
+  "city": "Thane"
+ },
+ {
+  "id": "sale-64",
+  "orderDate": "",
+  "promoCode": "Social",
+  "model": "X1",
+  "totalAmount": 25999,
+  "name": "ashish bhalla",
+  "state": "",
+  "city": ""
+ },
+ {
+  "id": "sale-65",
+  "orderDate": "2026-07-01",
+  "promoCode": "001DRDRIVE",
+  "model": "Doodle V2",
+  "totalAmount": 32999,
+  "name": "Ranjit Sule",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-66",
+  "orderDate": "2026-07-18",
+  "promoCode": "001SHUBH",
+  "model": "Doodle Pro",
+  "totalAmount": 55999,
+  "name": "Sunu Robinson",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-67",
+  "orderDate": "2026-08-02",
+  "promoCode": "001SHUBH",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Mohammed Farook Kallungal",
+  "state": "Kerala",
+  "city": "Chemmad"
+ },
+ {
+  "id": "sale-68",
+  "orderDate": "2026-08-04",
+  "promoCode": "001SHUBH",
+  "model": "MSD L07",
+  "totalAmount": 30499,
+  "name": "Sai Srikanth",
+  "state": "Telangana",
+  "city": "Hyderabad"
+ },
+ {
+  "id": "sale-69",
+  "orderDate": "2026-08-04",
+  "promoCode": "001SHUBH",
+  "model": "X1",
+  "totalAmount": 27999,
+  "name": "Akash Sendil",
+  "state": "Karnataka",
+  "city": "Udupi"
+ },
+ {
+  "id": "sale-70",
+  "orderDate": "2026-08-07",
+  "promoCode": "01SUVAN",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Amit Patil",
+  "state": "Telangana",
+  "city": "Hyderabad"
+ },
+ {
+  "id": "sale-71",
+  "orderDate": "2026-08-09",
+  "promoCode": "001SHUBH",
+  "model": "Viper",
+  "totalAmount": 66999,
+  "name": "Ronik sharma",
+  "state": "Tamil Nadu",
+  "city": "Tirucallur"
+ },
+ {
+  "id": "sale-72",
+  "orderDate": "2026-08-13",
+  "promoCode": "001NEERAJ",
+  "model": "MSD L07",
+  "totalAmount": 30499,
+  "name": "Vishal Kumar Biswas",
+  "state": "",
+  "city": ""
+ },
+ {
+  "id": "sale-73",
+  "orderDate": "2026-08-16",
+  "promoCode": "001NEERAJ",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Sandeep Thakur",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-74",
+  "orderDate": "2026-08-18",
+  "promoCode": "ONAM",
+  "model": "X1",
+  "totalAmount": 28000,
+  "name": "Saidali.A",
+  "state": "Karnataka",
+  "city": "Kollam"
+ },
+ {
+  "id": "sale-75",
+  "orderDate": "2026-08-18",
+  "promoCode": "001NEERAJ",
+  "model": "Doodle Pro",
+  "totalAmount": 55999,
+  "name": "K Vishnu Vardhan",
+  "state": "Karnataka",
+  "city": "Bellary"
+ },
+ {
+  "id": "sale-76",
+  "orderDate": "2026-08-18",
+  "promoCode": "001NEERAJ",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Dr sarada prasanna samantaray",
+  "state": "Orissa",
+  "city": "Khamar"
+ },
+ {
+  "id": "sale-77",
+  "orderDate": "2026-08-22",
+  "promoCode": "001SHUBH",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Pravin Shende",
+  "state": "Maharashtra",
+  "city": "Chandrapur"
+ },
+ {
+  "id": "sale-78",
+  "orderDate": "2026-08-17",
+  "promoCode": "01AMAN",
+  "model": "X1",
+  "totalAmount": 27999,
+  "name": "Piryank Kumar Dhimaan",
+  "state": "UP",
+  "city": "Saharanpur"
+ },
+ {
+  "id": "sale-79",
+  "orderDate": "2026-08-15",
+  "promoCode": "001SHUBH",
+  "model": "Dope",
+  "totalAmount": 24012,
+  "name": "Naveen Rao",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-80",
+  "orderDate": "2026-08-17",
+  "promoCode": "01AMAN",
+  "model": "X1",
+  "totalAmount": 27999,
+  "name": "Tanmay Agrawal",
+  "state": "UP",
+  "city": "Kanpur"
+ },
+ {
+  "id": "sale-81",
+  "orderDate": "2026-08-13",
+  "promoCode": "001SHUBH",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Dr. Girija Shankar Bal",
+  "state": "Orissa",
+  "city": "Bhubaneshwar"
+ },
+ {
+  "id": "sale-82",
+  "orderDate": "2026-08-22",
+  "promoCode": "001SHUBH",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Pravin Shende",
+  "state": "Maharashtra",
+  "city": "Chandrapur"
+ },
+ {
+  "id": "sale-83",
+  "orderDate": "2026-08-22",
+  "promoCode": "001NEERAJ",
+  "model": "X1",
+  "totalAmount": 27999,
+  "name": "Hanuman godara",
+  "state": "Rajasthan",
+  "city": "Sikar"
+ },
+ {
+  "id": "sale-84",
+  "orderDate": "2026-08-24",
+  "promoCode": "001NEERAJ",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "MURIFATH FAROOQ",
+  "state": "J&K",
+  "city": "SriNagar"
+ },
+ {
+  "id": "sale-85",
+  "orderDate": "2026-08-20",
+  "promoCode": "001NEERAJ",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Sooraj Mon V S",
+  "state": "Karnataka",
+  "city": "Kerala"
+ },
+ {
+  "id": "sale-86",
+  "orderDate": "2026-08-21",
+  "promoCode": "01SHUBH",
+  "model": "Viper",
+  "totalAmount": 66999,
+  "name": "VIDYA SAGAR H J",
+  "state": "Karnataka",
+  "city": "Tiptur"
+ },
+ {
+  "id": "sale-87",
+  "orderDate": "2026-08-25",
+  "promoCode": "001NEERAJ",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Ravikant Pathak",
+  "state": "Telangana",
+  "city": "Medak"
+ },
+ {
+  "id": "sale-88",
+  "orderDate": "2026-08-29",
+  "promoCode": "001NEERAJ",
+  "model": "Viper",
+  "totalAmount": 66999,
+  "name": "Rohini Tandale",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-89",
+  "orderDate": "2026-08-29",
+  "promoCode": "001NEERAJ",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Bikash Kumar Behera",
+  "state": "Karnataka",
+  "city": "Karwar"
+ },
+ {
+  "id": "sale-90",
+  "orderDate": "2026-08-27",
+  "promoCode": "001NEERAJ",
+  "model": "Doodle Pro",
+  "totalAmount": 55999,
+  "name": "Abu Tahirud Doza",
+  "state": "Assam",
+  "city": "Assam"
+ },
+ {
+  "id": "sale-91",
+  "orderDate": "2026-08-30",
+  "promoCode": "001NEERAJ",
+  "model": "Viper",
+  "totalAmount": 67000,
+  "name": "Harsh Vardhan",
+  "state": "Maharashtra",
+  "city": "Mumbai"
+ },
+ {
+  "id": "sale-92",
+  "orderDate": "2026-09-04",
+  "promoCode": "001NEERAJ",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Yogesh Electricals",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-93",
+  "orderDate": "2026-09-04",
+  "promoCode": "001NEERAJ",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Jayachandran G",
+  "state": "Karnataka",
+  "city": "Kerala"
+ },
+ {
+  "id": "sale-94",
+  "orderDate": "2026-09-06",
+  "promoCode": "01ADITYA",
+  "model": "X2",
+  "totalAmount": 31999,
+  "name": "Mohd Mateen",
+  "state": "UP",
+  "city": "Bareilly"
+ },
+ {
+  "id": "sale-95",
+  "orderDate": "2026-09-06",
+  "promoCode": "001NEERAJ",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Bhupendra Singh",
+  "state": "West Bengal",
+  "city": "Naxalbari"
+ },
+ {
+  "id": "sale-96",
+  "orderDate": "2026-09-06",
+  "promoCode": "001NEERAJ",
+  "model": "Viper",
+  "totalAmount": 66999,
+  "name": "Ramesh Jayaraman",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-97",
+  "orderDate": "2026-09-08",
+  "promoCode": "001NEERAJ",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Faheem",
+  "state": "UP",
+  "city": "Mawana"
+ },
+ {
+  "id": "sale-98",
+  "orderDate": "2026-09-11",
+  "promoCode": "01SUVAN",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Benu Dhar Mohapatra",
+  "state": "Odisa",
+  "city": "Baripada"
+ },
+ {
+  "id": "sale-99",
+  "orderDate": "2026-09-11",
+  "promoCode": "01ADITYA",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Aboobucker siddiq",
+  "state": "Tamil Nadu",
+  "city": "Salem"
+ },
+ {
+  "id": "sale-100",
+  "orderDate": "2026-09-12",
+  "promoCode": "01ADITYA",
+  "model": "MSD L07",
+  "totalAmount": 32999,
+  "name": "Krishnaveni G",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-101",
+  "orderDate": "2026-09-12",
+  "promoCode": "01ADITYA",
+  "model": "Doodle Pro",
+  "totalAmount": 56999,
+  "name": "Mohseenahmad Hasan Tamboli",
+  "state": "Maharashtra",
+  "city": "Pune"
+ },
+ {
+  "id": "sale-102",
+  "orderDate": "2026-09-12",
+  "promoCode": "01ADITYA",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Vishwanath Tirlapur",
+  "state": "Karnataka",
+  "city": "Bangalore"
+ },
+ {
+  "id": "sale-103",
+  "orderDate": "2026-09-14",
+  "promoCode": "01ADITYA",
+  "model": "X2",
+  "totalAmount": 31999,
+  "name": "Madhan",
+  "state": "Tamil Nadu",
+  "city": "Ramanathpuram"
+ },
+ {
+  "id": "sale-104",
+  "orderDate": "2026-09-11",
+  "promoCode": "01ADITYA",
+  "model": "Trex Air",
+  "totalAmount": 37499,
+  "name": "Monika agarwal",
+  "state": "",
+  "city": ""
+ },
+ {
+  "id": "sale-105",
+  "orderDate": "2026-09-14",
+  "promoCode": "01ADITYA",
+  "model": "Doodle Pro",
+  "totalAmount": 55999,
+  "name": "Amit Jadhav",
+  "state": "Maharashtra",
+  "city": "Pune"
+ }
+]

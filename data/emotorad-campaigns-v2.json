@@ -1,0 +1,1163 @@
+[
+ {
+  "id": "camp-1",
+  "name": "Monsoon Commute Push",
+  "objective": "Drive awareness for waterproof e-cycle models ahead of monsoon season",
+  "startDate": "2026-09-27",
+  "endDate": "2026-10-27",
+  "budget": 250000,
+  "status": "Active",
+  "notes": "Focus on Tier-1 city commuters. Prioritize video content over static posts.",
+  "createdAt": "2026-10-07T06:27:10.452Z",
+  "deliverables": [
+   {
+    "id": "d1",
+    "influencerName": "Ishaan Verma",
+    "contentTypes": [
+     "Reel"
+    ],
+    "dueDate": "2026-10-05",
+    "status": "Draft Submitted",
+    "postLinks": [],
+    "notes": ""
+   },
+   {
+    "id": "d2",
+    "influencerName": "Meera Kulkarni",
+    "contentTypes": [
+     "YouTube Video"
+    ],
+    "dueDate": "2026-10-12",
+    "status": "Not Started",
+    "postLinks": [],
+    "notes": "Waiting on contract signature."
+   },
+   {
+    "id": "d3",
+    "influencerName": "Devansh Patil",
+    "contentTypes": [
+     "Instagram Post",
+     "Story"
+    ],
+    "dueDate": "2026-10-06",
+    "status": "Posted",
+    "postLinks": [
+     "https://instagram.com/p/example"
+    ],
+    "notes": ""
+   }
+  ]
+ },
+ {
+  "id": "camp-2",
+  "name": "Diwali Launch 2026",
+  "objective": "Launch the new city commuter line during festive season",
+  "startDate": "2026-10-22",
+  "endDate": "2026-11-21",
+  "budget": 500000,
+  "status": "Planning",
+  "notes": "Bikes still in production, do not confirm shoot dates yet.",
+  "createdAt": "2026-10-07T06:27:10.452Z",
+  "deliverables": []
+ },
+ {
+  "id": "camp-facelift-pune",
+  "name": "FaceLift - Pune",
+  "objective": "",
+  "startDate": "2026-09-19",
+  "endDate": "2026-10-10",
+  "budget": 0,
+  "status": "Active",
+  "notes": "Rebuilt from your exported deliverables (influencer, content type, due date, status). Budget, objective and post links weren't in that export — please fill them in.",
+  "deliverables": [
+   {
+    "id": "del-facelift-pune-1",
+    "influencerName": "Saurabh kurud",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-10",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-2",
+    "influencerName": "Riya Singh",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-09",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-3",
+    "influencerName": "Mitali Baisane",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-19",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-4",
+    "influencerName": "Pawan Salunke",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-20",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-5",
+    "influencerName": "Minal Naukariya",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-08",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-6",
+    "influencerName": "justpune_",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-21",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-7",
+    "influencerName": "Sumeet Kale",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-07",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-8",
+    "influencerName": "Rahul Champawat",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-06",
+    "status": "Draft Submitted",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-9",
+    "influencerName": "Manish",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-05",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-10",
+    "influencerName": "Joshini",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-04",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-11",
+    "influencerName": "Prasad",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-22",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-12",
+    "influencerName": "goldenshadesoflife",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-03",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-13",
+    "influencerName": "Tejaswini",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-02",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-14",
+    "influencerName": "Avishkar",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-23",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-15",
+    "influencerName": "Charandeep Singh",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-24",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-16",
+    "influencerName": "Prasad",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-25",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-17",
+    "influencerName": "Varsha",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-02",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-18",
+    "influencerName": "Barkat",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-02",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-19",
+    "influencerName": "Rakesh Choudhary",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-03",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-20",
+    "influencerName": "Shubham Jagdale",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-01",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-21",
+    "influencerName": "Rohan Dalpe",
+    "contentTypes": [
+     "YouTube Video",
+     "Reel"
+    ],
+    "dueDate": "2026-10-04",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-22",
+    "influencerName": "Pavan Nayak",
+    "contentTypes": [
+     "Reel"
+    ],
+    "dueDate": "2026-10-05",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-23",
+    "influencerName": "Preeti Singh",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-06",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-24",
+    "influencerName": "Mayur Valkunde",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-05",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-pune-25",
+    "influencerName": "Swapnil Valkunde",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-04",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   }
+  ]
+ },
+ {
+  "id": "camp-facelift-delhi",
+  "name": "FaceLift - Delhi",
+  "objective": "",
+  "startDate": "2026-09-19",
+  "endDate": "2026-10-11",
+  "budget": 0,
+  "status": "Active",
+  "notes": "Rebuilt from your exported deliverables (influencer, content type, due date, status). Budget, objective and post links weren't in that export — please fill them in.",
+  "deliverables": [
+   {
+    "id": "del-facelift-delhi-1",
+    "influencerName": "Manish Upadhyay",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-01",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-2",
+    "influencerName": "Sachin Tyagi",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-09",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-3",
+    "influencerName": "Uzaim Malik",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-26",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-4",
+    "influencerName": "Nawab Adnan",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-29",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-5",
+    "influencerName": "Adil malik",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-02",
+    "status": "Draft Submitted",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-6",
+    "influencerName": "Vaibhav Malik",
+    "contentTypes": [
+     "Story",
+     "Reel"
+    ],
+    "dueDate": "2026-09-21",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-7",
+    "influencerName": "Simmi Gupta",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-21",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-8",
+    "influencerName": "Dishu khanna",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-19",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-9",
+    "influencerName": "Apple tiwari",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-28",
+    "status": "Draft Submitted",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-10",
+    "influencerName": "Atul Chaurasiya",
+    "contentTypes": [
+     "Story",
+     "Reel"
+    ],
+    "dueDate": "2026-10-11",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-11",
+    "influencerName": "Nikhil Dhingra",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-10-05",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-12",
+    "influencerName": "Chayan Sharma",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-22",
+    "status": "Draft Submitted",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-13",
+    "influencerName": "Piyush Sahu",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-27",
+    "status": "Draft Submitted",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-14",
+    "influencerName": "Ajay Sagar",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-20",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-15",
+    "influencerName": "Siddharth singh",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-24",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-16",
+    "influencerName": "Kamya Singh",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-25",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-17",
+    "influencerName": "Ankur Sharma",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-30",
+    "status": "Draft Submitted",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-delhi-18",
+    "influencerName": "Akshat Sharma",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-23",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   }
+  ]
+ },
+ {
+  "id": "camp-facelift-bangalore",
+  "name": "FaceLift - Bangalore",
+  "objective": "",
+  "startDate": "2026-09-19",
+  "endDate": "2026-10-07",
+  "budget": 0,
+  "status": "Active",
+  "notes": "Rebuilt from your exported deliverables (influencer, content type, due date, status). Budget, objective and post links weren't in that export — please fill them in.",
+  "deliverables": [
+   {
+    "id": "del-facelift-bangalore-1",
+    "influencerName": "Swati",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-19",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-2",
+    "influencerName": "Nitisha",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-20",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-3",
+    "influencerName": "Anusha",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-21",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-4",
+    "influencerName": "Ankita",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-22",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-5",
+    "influencerName": "Akansha",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-23",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-6",
+    "influencerName": "Aditi Gupta",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-24",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-7",
+    "influencerName": "Anandita Banerjee",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-22",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-8",
+    "influencerName": "Abdul Shafi",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-26",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-9",
+    "influencerName": "Shahid (poc - salman)",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-27",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-10",
+    "influencerName": "Salman",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-28",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-11",
+    "influencerName": "_mithali_krishnan",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-29",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-12",
+    "influencerName": "Snigdha (Friend of Adarsh)",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-30",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-13",
+    "influencerName": "Ashlyn Sam",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-10-01",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-14",
+    "influencerName": "Adarsh Kumar Barnwal",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-10-02",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-15",
+    "influencerName": "Santosh",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-29",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-16",
+    "influencerName": "Preet Supravan",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-29",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-17",
+    "influencerName": "Vikrant",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-26",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-18",
+    "influencerName": "Raghav",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-10-03",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-19",
+    "influencerName": "Ankith",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-10-04",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-20",
+    "influencerName": "Gautam",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-10-05",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-21",
+    "influencerName": "Mohan Jayanna",
+    "contentTypes": [
+     "Instagram Post",
+     "YouTube Video"
+    ],
+    "dueDate": "2026-10-06",
+    "status": "Not Started",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-22",
+    "influencerName": "Manjula Patil",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-10-07",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-23",
+    "influencerName": "Arun Kumar",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-19",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-24",
+    "influencerName": "Aashira Singh",
+    "contentTypes": [
+     "Instagram Post"
+    ],
+    "dueDate": "2026-09-24",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   },
+   {
+    "id": "del-facelift-bangalore-25",
+    "influencerName": "HarshVardhan",
+    "contentTypes": [
+     "Reel",
+     "Story"
+    ],
+    "dueDate": "2026-09-23",
+    "status": "Approved",
+    "postLinks": [],
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "cost": 0,
+    "notes": ""
+   }
+  ]
+ }
+]

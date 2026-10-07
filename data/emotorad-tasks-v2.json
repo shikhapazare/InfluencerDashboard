@@ -1,0 +1,42 @@
+[
+ {
+  "id": "task-1",
+  "title": "Prep rate card for Q4 influencer outreach",
+  "assignee": "Shikha",
+  "dueDate": "2026-10-09",
+  "priority": "High",
+  "status": "in_progress",
+  "notes": "",
+  "createdAt": "2026-10-07T06:27:10.452Z"
+ },
+ {
+  "id": "task-2",
+  "title": "Follow up with Delhivery on delayed shipments",
+  "assignee": "Rohan",
+  "dueDate": "2026-10-06",
+  "priority": "High",
+  "status": "todo",
+  "notes": "Two units flagged as delayed in logistics board.",
+  "createdAt": "2026-10-07T06:27:10.452Z"
+ },
+ {
+  "id": "task-3",
+  "title": "Draft Diwali campaign brief for creative team",
+  "assignee": "Ananya",
+  "dueDate": "2026-10-12",
+  "priority": "Medium",
+  "status": "todo",
+  "notes": "",
+  "createdAt": "2026-10-07T06:27:10.452Z"
+ },
+ {
+  "id": "task-4",
+  "title": "Review last month's content performance screenshots",
+  "assignee": "Shikha",
+  "dueDate": "2026-10-04",
+  "priority": "Low",
+  "status": "done",
+  "notes": "",
+  "createdAt": "2026-10-07T06:27:10.452Z"
+ }
+]
