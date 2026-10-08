@@ -1,10 +1,11 @@
 // GET /api/export -> downloads every saved list as one backup file
 // (same format as the dashboard's "Back up data" button, so it can be loaded with "Restore from backup").
-import { send } from "./_http.js";
+import { send, allowed } from "./_http.js";
 import { getValue, listKeys } from "./_store.js";
 
 export default async function handler(req, res) {
   try {
+    if (!allowed(req, res)) return;
     const data = {};
     for (const k of await listKeys("emotorad-")) {
       const v = await getValue(k);

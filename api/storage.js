@@ -2,11 +2,12 @@
 // GET  /api/storage?prefix=emotorad-  -> { keys: [...] }
 // GET  /api/storage?key=<key>         -> { key, value }   (404 when the list doesn't exist)
 // PUT  /api/storage  {key, value}     -> { ok: true }     (503 when no database is connected)
-import { send, queryOf, bodyOf } from "./_http.js";
+import { send, queryOf, bodyOf, allowed } from "./_http.js";
 import { KEY_RE, MAX_VALUE_BYTES, backendName, isPersistent, getValue, setValue, listKeys } from "./_store.js";
 
 export default async function handler(req, res) {
   try {
+    if (!allowed(req, res)) return;
     const q = queryOf(req);
 
     if (req.method === "GET") {
